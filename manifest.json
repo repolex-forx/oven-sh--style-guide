@@ -1,0 +1,23 @@
+{
+  "manifest_version": "1.0",
+  "org": "oven-sh",
+  "repo": "style-guide",
+  "versions": [
+    {
+      "commit": "26252c373df66e5d53b5239e4d67b5bc0a6ee8f1",
+      "parsed_at": "2026-10-10T13:03:51.072604+00:00",
+      "filetree": "filetree/26252c373df66e5d53b5239e4d67b5bc0a6ee8f1.nq.gz",
+      "blobs": [
+        "blob/19df1311b9aac7682dd4691bde8106360aa924d3.nq.gz",
+        "blob/0f6c693a71c41e995f11cdb685b192993bc81965.nq.gz",
+        "blob/43ed72ffc9ff9f341e9e06087d3c868cd24c27a9.nq.gz",
+        "blob/61443ffa5ccf3450813312553d5feca8953bd38e.nq.gz",
+        "blob/14f7aa14755fad46558ca6c3a52cf87bb10d3a86.nq.gz",
+        "blob/a4df5b865363a948493f3d4acd6a9f5455b8266a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
